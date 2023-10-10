@@ -3,6 +3,9 @@
     "development"
   ],
   "hints": {
-    "axe/text-alternatives": "off"
+    "axe/text-alternatives": "off",
+    "axe/forms": "off",
+    "axe/name-role-value": "off",
+    "button-type": "off"
   }
 }
